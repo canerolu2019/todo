@@ -8,7 +8,7 @@
 import TodoList from './components/TodoList.vue'
 
 export default {
-  name: 'App',
+  name: 'to do',
   components: {
     TodoList
   }
